@@ -1,0 +1,23 @@
+{
+  "name": "jervascrurpt",
+  "version": "1.0.0",
+  "description": "Awesome app.",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dardrone/jervascrurpt.git"
+  },
+  "author": "Darren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dardrone/jervascrurpt/issues"
+  },
+  "homepage": "https://github.com/dardrone/jervascrurpt#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.4.8"
+  }
+}
