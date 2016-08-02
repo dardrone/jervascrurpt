@@ -1,2 +1,2 @@
 # jervascrurpt
-Example repo for learning about javascript!
+Example repo fur learning abert jervascrurpt!
